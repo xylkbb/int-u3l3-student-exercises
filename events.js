@@ -41,7 +41,7 @@ ________.addEventListener("click", function() {
 
 /* 4. When end game button is clicked, the title of the page says game over. 
 
-________._______ ("___", ________()
+________._______ ("___", ________() {
     title.innerHTML = "Game over.";
 });
 
@@ -50,7 +50,7 @@ ________._______ ("___", ________()
 
 /* 5. When update score button is clicked, the counter score becomes "1" instead of 0. 
 
-________._______ ("___", ________()
+________._______ ("___", ________() {
     score.innerHTML = 1;
 });
 
