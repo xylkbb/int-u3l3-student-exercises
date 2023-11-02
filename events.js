@@ -57,7 +57,10 @@ ________._______ ("___", ________() {
 */
 
 
-/*6: When clicking the "Grow" button the Mario image gets bigger. Write the whole click handler! 
+/* 6: When clicking the "Grow" button the Mario image gets bigger. Write the whole click handler! 
 
+{
+    mario.style.width = "200px";
+}
 
 */
