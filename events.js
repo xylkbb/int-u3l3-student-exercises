@@ -33,7 +33,7 @@ ________.addEventListener("click", function() {
 /* 3. When change color button is clicked, background color changes. 
 
 ________.addEventListener("click", function() {
-    background.style.backgroundColor = "skyblue";
+    background.style.backgroundColor = "springGreen"; // you can change the color to something different
 });
 
 */
